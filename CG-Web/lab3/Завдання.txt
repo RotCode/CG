@@ -1,0 +1,7 @@
+ЛАБОРАТОРНА РОБОТА 3
+Завдання
+На підставі 1 лабораторної роботи (вибраних Вами власних геометричних фігур):
+1. Використати помічники ArrowHelper (prime03-02.html), AxisHelper (prime03-03.html), 
+BoxHelper (prime03-04.html), CameraHelper (prime03-05.html), DirectionalLightHelper (prime03-06.html) (prime03-07.html), 
+HemisphereLightHelper (prime03-08.html), PointLightHelper (prime03-09.html), SpotLightHelper (prime03-010.html).
+Надіслати звіт та архів усіх файлів (включаючи папку з бібліотеками js...
